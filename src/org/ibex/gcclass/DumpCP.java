@@ -1,4 +1,6 @@
-// Copyright (C) 2004 Brian Alliet
+// Copyright 2000-2005 the Contributors, as shown in the revision logs.
+// Licensed under the Apache Public Source License 2.0 ("the License").
+// You may not use this file except in compliance with the License.
 
 package org.ibex.gcclass;
 

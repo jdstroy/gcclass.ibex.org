@@ -1,13 +1,10 @@
+// Copyright 2000-2005 the Contributors, as shown in the revision logs.
+// Licensed under the Apache Public Source License 2.0 ("the License").
+// You may not use this file except in compliance with the License.
+
 // Copyright (C) 2004 Brian Alliet
 
 // Based on NanoGoat by Adam Megacz
-
-// Copyright (C) 2004 Adam Megacz <adam@ibex.org> all rights reserved.
-//
-// You may modify, copy, and redistribute this code under the terms of
-// the GNU Library Public License version 2.1, with the exception of
-// the portion of clause 6a after the semicolon (aka the "obnoxious
-// relink clause")
 
 package org.ibex.gcclass;
 
