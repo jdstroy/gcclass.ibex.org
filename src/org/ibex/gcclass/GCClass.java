@@ -9,7 +9,7 @@
 // the portion of clause 6a after the semicolon (aka the "obnoxious
 // relink clause")
 
-package com.brian_web.gcclass;
+package org.ibex.gcclass;
 
 import java.util.*;
 import java.io.*;

@@ -1,6 +1,6 @@
 // Copyright (C) 2004 Brian Alliet
 
-package com.brian_web.gcclass;
+package org.ibex.gcclass;
 
 import java.util.*;
 import java.io.*;
