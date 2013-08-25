@@ -21,7 +21,7 @@ test: all Test.class
 
 $(bcel_jar):
 	mkdir -p upstream
-	curl http://mirrors.mix5.com/apache/jakarta/bcel/binaries/bcel-5.1.tar.gz | gzip -dc | $(TAR) -xf - -C upstream
+	curl https://archive.apache.org/dist/jakarta/bcel/binaries/bcel-5.1.tar.gz | gzip -dc | $(TAR) -xf - -C upstream
 
 clean: 
 	rm -rf build/*
